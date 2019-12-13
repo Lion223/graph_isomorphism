@@ -1,0 +1,32 @@
+W:\vs_sources\C#\Nulp\discrete5\bin\Debug\discrete5.exe.config
+W:\vs_sources\C#\Nulp\discrete5\bin\Debug\discrete5.exe
+W:\vs_sources\C#\Nulp\discrete5\bin\Debug\discrete5.pdb
+W:\vs_sources\C#\Nulp\discrete5\bin\Debug\MetroFramework.Design.dll
+W:\vs_sources\C#\Nulp\discrete5\bin\Debug\MetroFramework.dll
+W:\vs_sources\C#\Nulp\discrete5\bin\Debug\MetroFramework.Fonts.dll
+W:\vs_sources\C#\Nulp\discrete5\obj\Debug\discrete5.Form1.resources
+W:\vs_sources\C#\Nulp\discrete5\obj\Debug\discrete5.Properties.Resources.resources
+W:\vs_sources\C#\Nulp\discrete5\obj\Debug\discrete5.csproj.GenerateResource.Cache
+W:\vs_sources\C#\Nulp\discrete5\obj\Debug\discrete5.csproj.CoreCompileInputs.cache
+W:\vs_sources\C#\Nulp\discrete5\obj\Debug\discrete5.exe
+W:\vs_sources\C#\Nulp\discrete5\obj\Debug\discrete5.pdb
+W:\vs_sources\C#\Nulp\discrete5\obj\Debug\discrete5.csprojResolveAssemblyReference.cache
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete5\bin\Debug\discrete5.exe.config
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete5\bin\Debug\discrete5.exe
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete5\bin\Debug\discrete5.pdb
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete5\bin\Debug\MetroFramework.Design.dll
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete5\bin\Debug\MetroFramework.dll
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete5\bin\Debug\MetroFramework.Fonts.dll
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete5\obj\Debug\discrete5.csprojResolveAssemblyReference.cache
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete5\obj\Debug\discrete5.Form1.resources
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete5\obj\Debug\discrete5.Properties.Resources.resources
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete5\obj\Debug\discrete5.csproj.GenerateResource.Cache
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete5\obj\Debug\discrete5.csproj.CoreCompileInputs.cache
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete5\obj\Debug\discrete5.exe
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete5\obj\Debug\discrete5.pdb
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete5\bin\Debug\Microsoft.GLEE.dll
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete5\bin\Debug\Microsoft.GLEE.Drawing.dll
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete5\bin\Debug\Microsoft.GLEE.GraphViewerGDI.dll
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete5\bin\Debug\Microsoft.GLEE.pdb
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete5\bin\Debug\Microsoft.GLEE.Drawing.pdb
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete5\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
